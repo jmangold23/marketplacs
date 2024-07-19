@@ -25,10 +25,9 @@ Explore our diverse range of offerings, from artisanal goods and gourmet foods t
       
       <guid>/contact-us/</guid>
       <description>We&amp;rsquo;d love to hear from you! Whether you have a question about our products, need assistance, or just want to give us feedback, we are here to help.
-Get in Touch Email: contact@marketplacs.com
-Phone: +1-800-123-4567
 Follow Us Stay connected with us through social media:
- Twitter Facebook Instagram  Send Us a Message If you prefer, you can also use the contact form below to send us a message directly.</description>
+ Twitter Facebook Instagram  Send Us a Message If you prefer, you can also use the contact form below to send us a message directly.
+   window.addEventListener(&#39;message&#39;, function(e) { var iframe = document.</description>
     </item>
     
     <item>
@@ -38,7 +37,13 @@ Follow Us Stay connected with us through social media:
       
       <guid>/shop/</guid>
       <description>Shop Welcome to our Shop! Explore our curated selection of products below.
-Featured Products </description>
+Featured Products Product 1 A brief description of Product 1.
+Price: $29.99
+View Product  Product 2 A brief description of Product 2.
+Price: $39.99
+View Product  Product 3 A brief description of Product 3.
+Price: $49.99
+View Product   </description>
     </item>
     
   </channel>
