@@ -25,9 +25,7 @@ Explore our diverse range of offerings, from artisanal goods and gourmet foods t
       
       <guid>/contact-us/</guid>
       <description>We&amp;rsquo;d love to hear from you! Whether you have a question about our products, need assistance, or just want to give us feedback, we are here to help.
-Follow Us Stay connected with us through social media:
- Twitter Facebook Instagram  Send Us a Message If you prefer, you can also use the contact form below to send us a message directly.
-   window.addEventListener(&#39;message&#39;, function(e) { var iframe = document.</description>
+Send Us a Message    window.addEventListener(&#39;message&#39;, function(e) { var iframe = document.getElementById(&#39;formIframe&#39;); if (e.data.height &amp;&amp; e.origin === &#39;https://forms.office.com&#39;) { iframe.style.height = e.data.height + &#39;px&#39;; } }, false);  </description>
     </item>
     
     <item>
