@@ -24,8 +24,7 @@ Explore our diverse range of offerings, from artisanal goods and gourmet foods t
       <pubDate>Wed, 17 Jul 2024 15:14:39 +1000</pubDate>
       
       <guid>/contact-us/</guid>
-      <description>We&amp;rsquo;d love to hear from you! Whether you have a question about our products, need assistance, or just want to give us feedback, we are here to help.
-Send Us a Message    window.addEventListener(&#39;message&#39;, function(e) { var iframe = document.getElementById(&#39;formIframe&#39;); if (e.data.height &amp;&amp; e.origin === &#39;https://forms.office.com&#39;) { iframe.style.height = e.data.height + &#39;px&#39;; } }, false);  </description>
+      <description>   window.addEventListener(&#39;message&#39;, function(e) { var iframe = document.getElementById(&#39;formIframe&#39;); if (e.data.height &amp;&amp; e.origin === &#39;https://forms.office.com&#39;) { iframe.style.height = e.data.height + &#39;px&#39;; } }, false);  </description>
     </item>
     
     <item>
